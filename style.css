@@ -9,7 +9,7 @@ letter-spacing: 1px;
 
 body{
 min-height: 100vh;
-background: url(https://github.com/TorpedoSA/torpedosa/blob/25591ec62b1dd4d3a8eec9e34c522c2fec5f1117/pawel-czerwinski-MniDX98S7zw-unsplash.jpg) no-repeat;
+background: url(../../pawel-czerwinski-MniDX98S7zw-unsplash.jpg) no-repeat;
 background-size: cover;
 background-position: center;
 background-attachment: fixed;
