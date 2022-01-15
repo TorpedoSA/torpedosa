@@ -4,11 +4,13 @@ box-sizing: border-box;
 font-family: 'Koulen', Arial, helvetica, sans-serif;
 text-decoration: none;
 letter-spacing: 1px;
-background-image:url(https://torpedosa.github.io/pawel-czerwinski-MniDX98S7zw-unsplash.jpg) no-repeat;
+
+html{
+background: url(pawel-czerwinski-MniDX98S7zw-unsplash.jpg) no-repeat;
 background-size: cover;
 background-position: center;
 background-attachment: fixed;
-
+}
 }
 
 body{
