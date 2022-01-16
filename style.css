@@ -16,6 +16,15 @@ background-attachment: fixed;
 
 }
 
+
+$dompdf = new Dompdf([
+            'enable_remote' => true,
+            'chroot' => /path/to/file/directory,
+        ]);
+
+
+
+
 h1{
   font-weight: bolder;
   text-align: center;
